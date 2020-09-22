@@ -1,0 +1,7 @@
+Form1 = 0, 0, 0, 0, C, 22, 22, 611, 375, C
+Module1 = 0, 0, 0, 0, C
+EndAllModule = 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 66, 66, 655, 419, C
+FloodModule = 0, 0, 0, 0, C
+TransparentBMP = 0, 0, 0, 0, C
+RunShellExec = 0, 0, 0, 0, C
